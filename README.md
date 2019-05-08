@@ -1,4 +1,6 @@
 # Small-World
+  *Inspired by Brackeys
+
   A project for my Computer Graphics Elective in 5th Sem, B.E
   
   The user controls a car, around a planet and has to avoid asteroids.
